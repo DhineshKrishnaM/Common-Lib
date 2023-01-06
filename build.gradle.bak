@@ -1,0 +1,100 @@
+plugins {
+    id "org.springframework.boot" version "2.6.2" apply false
+    id "org.sonarqube" version "3.2.0" apply false
+    id "jacoco"
+}
+
+group 'com.flexcub'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+allprojects {
+
+    group = "com.flexcub"
+
+    apply plugin: "idea"
+    apply plugin: "java"
+
+    defaultTasks("build", "jacocoTestReport")
+
+    repositories {
+        mavenCentral()
+    }
+    configurations {
+        all*.exclude group: 'log4j' , module: 'log4j'
+    }
+
+}
+subprojects {
+
+    apply plugin: "java-library"
+    apply plugin: "groovy"
+
+    java {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+    }
+
+    dependencies {
+        implementation("org.springframework.boot:spring-boot-starter-validation:2.6.6")
+        implementation("org.springframework:spring-context:4.3.2.RELEASE")
+        implementation("org.springframework.data:spring-data-commons:2.0.4.RELEASE")
+
+        implementation("org.springframework.boot:spring-boot-starter-cache:2.6.6")
+        implementation("org.springframework.boot:spring-boot-starter-data-redis:2.6.6")
+		implementation("org.springframework.boot:spring-boot-starter-data-jpa:2.6.6")
+        implementation("com.github.ben-manes.caffeine:caffeine:3.0.6")
+		implementation("org.springframework:spring-context-support:5.0.2.RELEASE")
+		implementation("org.springframework:spring-web:5.3.18")
+		implementation("org.springframework.security:spring-security-core:5.6.2")
+
+
+        implementation("javax.inject:javax.inject:1")
+        implementation("io.vavr:vavr:0.9.0")
+
+        implementation("com.google.code.findbugs:jsr305:3.0.2")
+		
+		implementation("io.springfox:springfox-swagger-ui:3.0.0")
+		implementation("io.swagger.core.v3:swagger-annotations:2.1.1")
+		implementation("org.springframework.boot:spring-boot-starter-data-rest:2.6.6")
+	
+		implementation("com.fasterxml.jackson.core:jackson-databind:2.13.2.2")
+		implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.13.2")
+		implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.13.2")
+		implementation("com.fasterxml.jackson.datatype:jackson-datatype-guava")
+		implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8")
+		implementation("com.fasterxml.jackson.datatype:jackson-datatype-joda")
+		implementation("com.fasterxml.jackson.datatype:jackson-datatype-jsr310")
+		
+        implementation("org.projectlombok:lombok:1.18.22")
+		implementation("javax.servlet:javax.servlet-api:4.0.1")
+		
+		implementation("commons-beanutils:commons-beanutils:1.9.4")
+		implementation("org.apache.commons:commons-lang3:3.12.0")
+		implementation("org.json:json:20090211")
+
+
+      
+        testImplementation("org.codehaus.groovy:groovy-all")
+        testImplementation("org.spockframework:spock-core")
+        testImplementation("org.spockframework:spock-spring")
+        testImplementation("io.rest-assured:rest-assured")
+        testImplementation("org.springframework.boot:spring-boot-starter-test")
+
+        testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+        testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    }
+
+    configurations {
+        runtime.exclude group: "org.slf4j", module: "slf4j-log4j12"
+        compile.exclude group: "org.slf4j", module: "slf4j-log4j12"
+        all*.exclude group: 'log4j' , module: 'log4j'
+    }
+}
+
+test {
+    useJUnitPlatform()
+}

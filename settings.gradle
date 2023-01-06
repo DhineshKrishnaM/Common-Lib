@@ -1,0 +1,8 @@
+rootProject.name = 'common-lib'
+include 'base'
+include 'cache-utils'
+include 'lang-utils'
+include 'security'
+include 'rest'
+include 'rest-utils'
+

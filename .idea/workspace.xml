@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee615111-4d47-4f5d-a9b8-7dc9e6ff138e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/flexcub-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/base/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/exception/ErrorResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/exception/ErrorResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/AbstractBaseEntityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/AbstractBaseEntityService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/BaseEntityController.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/BaseEntityController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/CustomSequenceEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/CustomSequenceEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/CustomSequencePersistEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/CustomSequencePersistEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/FieldAccessUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/FieldAccessUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/FieldAndGeneratorCacheHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/FieldAndGeneratorCacheHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/IdentityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/IdentityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/PaginationRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/identity/PaginationRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/multitenant/AbstractMultiTenantEntityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/multitenant/AbstractMultiTenantEntityService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/multitenant/MultiTenantBeforeCreateEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/multitenant/MultiTenantBeforeCreateEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/multitenant/MultiTenantIdFilterAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/multitenant/MultiTenantIdFilterAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/search/SpecSearchCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/search/SpecSearchCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/specifications/GenericSpecification.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/specifications/GenericSpecification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/specifications/GenericSpecificationsBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/specifications/GenericSpecificationsBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/util/Validate.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/util/Validate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/validation/CustomNotBlankConstraintValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/validation/CustomNotBlankConstraintValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/validation/CustomValidations$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/validation/CustomValidations$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/validation/CustomValidations$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/validation/CustomValidations$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/validation/CustomValidations.class" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/classes/java/main/com/flexcub/common/validation/CustomValidations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/libs/base-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/base/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/flexcub-common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache-utils/build/classes/java/main/com/flexcub/common/cache/redis/CustomRedisCacheConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/cache-utils/build/classes/java/main/com/flexcub/common/cache/redis/CustomRedisCacheConfiguration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache-utils/build/libs/cache-utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cache-utils/build/libs/cache-utils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache-utils/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cache-utils/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache-utils/src/main/java/com/flexcub/common/cache/local/EmbeddedCacheConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/cache-utils/src/main/java/com/flexcub/common/cache/local/EmbeddedCacheConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/modules/flexcub-common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/.idea/sonarIssues.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/base/build/libs/base-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/base/build/libs/base-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/base/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/base/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/build/libs/flexcub-common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/cache-utils/build/libs/cache-utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/cache-utils/build/libs/cache-utils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/cache-utils/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/cache-utils/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/lang-utils/build/libs/lang-utils.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/lang-utils/build/libs/lang-utils.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/lang-utils/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/lang-utils/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/rest-utils/build/libs/rest-utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/rest-utils/build/libs/rest-utils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/rest/build/libs/rest.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/rest/build/libs/rest.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/security/build/libs/security-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/security/build/libs/security-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/security/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/security/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-lib/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/converter/LocalDateConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/converter/LocalDateConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/exception/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/exception/CustomException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/AdditionalCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/AdditionalCollections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/Optionals.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/Optionals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/helper/RestHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/helper/RestHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ObjectConverter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ObjectConverter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ObjectConverter$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ObjectConverter$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ObjectConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ObjectConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ObjectUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ObjectUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ValidationUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/ValidationUtility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/XmlUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/lang/util/XmlUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/message/MessageCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/message/MessageCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/message/MessageParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/classes/java/main/com/flexcub/common/message/MessageParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/libs/lang-utils.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/libs/lang-utils.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lang-utils/src/main/java/com/flexcub/common/exception/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/lang-utils/src/main/java/com/flexcub/common/exception/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-utils/build/classes/java/main/com/flexcub/common/ReflectionUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/rest-utils/build/classes/java/main/com/flexcub/common/ReflectionUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-utils/build/classes/java/main/com/flexcub/common/rest/CustomAnnotationsDeserializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/rest-utils/build/classes/java/main/com/flexcub/common/rest/CustomAnnotationsDeserializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-utils/build/classes/java/main/com/flexcub/common/rest/RestObjectMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/rest-utils/build/classes/java/main/com/flexcub/common/rest/RestObjectMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-utils/build/libs/rest-utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/rest-utils/build/libs/rest-utils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest-utils/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/rest-utils/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest/build/libs/rest.jar" beforeDir="false" afterPath="$PROJECT_DIR$/rest/build/libs/rest.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/CustomAuthenticationFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/CustomAuthenticationFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/CustomAuthenticationTokenService.class" beforeDir="false" afterPath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/CustomAuthenticationTokenService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/RestTemplateBeanPostProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/RestTemplateBeanPostProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/SecurityContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/SecurityContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/SecurityExpressionChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/SecurityExpressionChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/SecurityPrincipal.class" beforeDir="false" afterPath="$PROJECT_DIR$/security/build/classes/java/main/com/flexcub/common/security/SecurityPrincipal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/build/libs/security-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/security/build/libs/security-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/security/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/flexcub/common/security/SecurityPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/flexcub/common/security/SecurityPrincipal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="common-lib" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="common-lib" type="f1a62948:ProjectNode" />
+                <item name="rest-utils" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="common-lib" type="f1a62948:ProjectNode" />
+                <item name="security" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JtcQU6kxLq6KwNJ8DVxMAjruWC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="common-lib [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.common-lib [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee615111-4d47-4f5d-a9b8-7dc9e6ff138e" name="Changes" comment="" />
+      <created>1672900804275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672900804275</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/common_lib$common_lib__dependencies_.ic" NAME="common-lib [dependencies] Coverage Results" MODIFIED="1672924541318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
