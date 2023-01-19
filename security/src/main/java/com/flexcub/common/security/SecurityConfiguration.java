@@ -16,10 +16,10 @@ public class SecurityConfiguration {
 
     @Bean
     public SecurityConfigurerAdapter securityConfigurerAdapter(
-        final CustomSecurityConfigProperties dijtaSecurityConfigProperties,
+        final CustomSecurityConfigProperties SecurityConfigProperties,
         final ICustomAuthenticationTokenService tokenService) {
 
-        return new SecurityConfigurerAdapter(dijtaSecurityConfigProperties, tokenService);
+        return new SecurityConfigurerAdapter(SecurityConfigProperties, tokenService);
     }
 
     @Bean
@@ -28,7 +28,7 @@ public class SecurityConfiguration {
     }
 
     @Bean
-    public SecurityContext securityContext(@Value("${dijta.security.adminRoleSecurityExpression:}") final String adminRoleSecurityExpression) {
+    public SecurityContext securityContext(@Value("${security.adminRoleSecurityExpression:}") final String adminRoleSecurityExpression) {
         return new SecurityContext(securityExpressionChecker(), adminRoleSecurityExpression);
     }
 
@@ -38,15 +38,15 @@ public class SecurityConfiguration {
     }
 
     @Bean
-    public ICustomAuthenticationTokenService dijtaAuthenticationTokenService(final CustomSecurityConfigProperties dijtaSecurityConfigProperties) {
-        return new CustomAuthenticationTokenService(dijtaSecurityConfigProperties, securityExpressionChecker());
+    public ICustomAuthenticationTokenService AuthenticationTokenService(final CustomSecurityConfigProperties SecurityConfigProperties) {
+        return new CustomAuthenticationTokenService(SecurityConfigProperties, securityExpressionChecker());
     }
 
     @Bean
-    public CustomSecurityConfigProperties dijtaSecurityConfigProperties(
-        @Value("${dijta.security.excludePaths:}") final String[] excludePaths,
-        @Value("${dijta.security.entrySecurityExpression:}") final String entryExpression,
-        @Value("${dijta.security.adminRoleSecurityExpression:}") final String adminRoleSecurityExpression) {
+    public CustomSecurityConfigProperties SecurityConfigProperties(
+        @Value("${security.excludePaths:}") final String[] excludePaths,
+        @Value("${security.entrySecurityExpression:}") final String entryExpression,
+        @Value("${security.adminRoleSecurityExpression:}") final String adminRoleSecurityExpression) {
 
         return new CustomSecurityConfigProperties(List.of(excludePaths).map(String::trim), entryExpression, adminRoleSecurityExpression);
     }

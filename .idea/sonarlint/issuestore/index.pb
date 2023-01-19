@@ -5,12 +5,6 @@ Ulang-utils/src/main/java/com/flexcub/common/exception/RequestValidationExceptio
 Llang-utils/src/main/java/com/flexcub/common/exception/NotFoundException.java,4\1\411a692b83f9e637762cfc75296c8a97105049c6
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-Å
-Qsecurity/src/main/java/com/flexcub/common/security/SecurityConfigurerAdapter.java,f\e\fef8ce9550e2a3e986fd64d0c8e6b010be8958c5
-à
-Xcommon-lib/security/src/main/java/com/flexcub/common/security/SecurityConfiguration.java,3\c\3c39ea193c88f18379f01e2c23043cda11830120
-y
-Isecurity/src/main/java/com/flexcub/common/security/SecurityPrincipal.java,3\9\391636032a57557c826bffa624d1dae1c068c106
 H
 cache-utils/build.gradle,6\d\6dbd9fa87ddcfc82944f9da032014491cef6325c
 }

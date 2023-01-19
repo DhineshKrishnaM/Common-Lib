@@ -11,16 +11,16 @@ import javax.inject.Inject;
 
 public class SecurityConfigurerAdapter extends WebSecurityConfigurerAdapter {
 
-    private final CustomSecurityConfigProperties dijtaSecurityConfigProperties;
-    private final ICustomAuthenticationTokenService dijtaAuthenticationTokenService;
+    private final CustomSecurityConfigProperties SecurityConfigProperties;
+    private final ICustomAuthenticationTokenService AuthenticationTokenService;
 
     @Inject
     public SecurityConfigurerAdapter(
         final CustomSecurityConfigProperties customSecurityConfigProperties,
-        final ICustomAuthenticationTokenService dijtaAuthenticationTokenService) {
+        final ICustomAuthenticationTokenService AuthenticationTokenService) {
 
-        this.dijtaSecurityConfigProperties = customSecurityConfigProperties;
-        this.dijtaAuthenticationTokenService = dijtaAuthenticationTokenService;
+        this.SecurityConfigProperties = customSecurityConfigProperties;
+        this.AuthenticationTokenService = AuthenticationTokenService;
     }
 
     @Override
@@ -36,15 +36,15 @@ public class SecurityConfigurerAdapter extends WebSecurityConfigurerAdapter {
             .and()
             .anonymous().disable()
             .addFilterBefore(
-                new CustomAuthenticationFilter(dijtaAuthenticationTokenService),
+                new CustomAuthenticationFilter(AuthenticationTokenService),
                 UsernamePasswordAuthenticationFilter.class);
 
     }
 
     @Override
     public void configure(final WebSecurity web) {
-        if (dijtaSecurityConfigProperties.isExcludePathPresent()) {
-            web.ignoring().antMatchers(dijtaSecurityConfigProperties.getExcludePathAsArray());
+        if (SecurityConfigProperties.isExcludePathPresent()) {
+            web.ignoring().antMatchers(SecurityConfigProperties.getExcludePathAsArray());
         }
     }
 

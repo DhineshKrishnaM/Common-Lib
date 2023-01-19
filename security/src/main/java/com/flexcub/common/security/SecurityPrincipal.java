@@ -61,7 +61,7 @@ public class SecurityPrincipal implements ISecurityPrincipal {
     public String toJwt() {
         try {
             String json = objectMapper.writeValueAsString(this);
-            return JwtHelper.encode(json, new MacSigner("DIJTA")).getEncoded();
+            return JwtHelper.encode(json, new MacSigner("")).getEncoded();
         } catch (JsonProcessingException e) {
             throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, String.format("Invalid security principal", this), e);
         }
