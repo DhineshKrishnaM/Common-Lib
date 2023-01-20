@@ -33,10 +33,10 @@ public class MessageCode implements Serializable {
         return msg(theCode, null, null);
     }
 
-    public static MessageCode error(final String theCode,
-                                    final MessageType messageType) {
-        return msg(messageType, theCode, null, null);
-    }
+//    public static MessageCode error(final String theCode,
+//                                    final MessageType messageType) {
+//        return msg(messageType, theCode, null, null);
+//    }
 
     public static MessageCode error(final String theCode,
                                     final String defaultMessage) {

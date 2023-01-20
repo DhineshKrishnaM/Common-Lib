@@ -42,7 +42,7 @@ public class CustomException extends RuntimeException {
         this(e, status, MessageCode.error(messageCode, defaultMessage));
     }
 
-
+    @Deprecated
     public CustomException(final HttpStatus status,
                           final String messageCode) {
         this(status, MessageCode.error(messageCode));

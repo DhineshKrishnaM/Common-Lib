@@ -4,59 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee615111-4d47-4f5d-a9b8-7dc9e6ff138e" name="Changes" comment="">
+    <list default="true" id="ee615111-4d47-4f5d-a9b8-7dc9e6ff138e" name="Changes" comment="Updated changes">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c39ea193c88f18379f01e2c23043cda11830120" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30faf96bd34633205bceb4dda84a27a3761a1e29" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/7.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/modules/flexcub-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/.idea/sonarIssues.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/base/build/libs/base-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/base/build/libs/base-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/base/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/base/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/build/libs/flexcub-common-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/cache-utils/build/libs/cache-utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/cache-utils/build/libs/cache-utils-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/cache-utils/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/cache-utils/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/lang-utils/build/libs/lang-utils.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/lang-utils/build/libs/lang-utils.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/lang-utils/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/lang-utils/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/rest-utils/build/libs/rest-utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/rest-utils/build/libs/rest-utils-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/rest/build/libs/rest.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/rest/build/libs/rest.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/security/build/libs/security-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/security/build/libs/security-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/security/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/security/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/security/src/main/java/com/flexcub/common/security/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/security/src/main/java/com/flexcub/common/security/SecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/security/src/main/java/com/flexcub/common/security/SecurityConfigurerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/security/src/main/java/com/flexcub/common/security/SecurityConfigurerAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/security/src/main/java/com/flexcub/common/security/SecurityPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/security/src/main/java/com/flexcub/common/security/SecurityPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-lib/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/common-lib/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/flexcub/common/security/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/flexcub/common/security/SecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/flexcub/common/security/SecurityConfigurerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/flexcub/common/security/SecurityConfigurerAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security/src/main/java/com/flexcub/common/security/SecurityPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/security/src/main/java/com/flexcub/common/security/SecurityPrincipal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +28,26 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/base">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="common-lib" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="common-lib" type="f1a62948:ProjectNode" />
+                <item name="base" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="common-lib" type="f1a62948:ProjectNode" />
+                <item name="base" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
@@ -100,6 +68,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -124,6 +93,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -164,10 +134,28 @@
       <option name="presentableId" value="Default" />
       <updated>1672900804275</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated chnages">
+      <created>1674111184748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674111184748</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated changes">
+      <created>1674111298972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674111298972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated chnages" />
+    <MESSAGE value="Updated changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/common_lib$common_lib__dependencies_.ic" NAME="common-lib [dependencies] Coverage Results" MODIFIED="1672924541318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

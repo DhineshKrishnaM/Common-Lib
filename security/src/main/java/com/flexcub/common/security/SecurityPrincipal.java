@@ -53,7 +53,7 @@ public class SecurityPrincipal implements ISecurityPrincipal {
             return objectMapper.readValue(decoded.getClaims(), SecurityPrincipal.class);
         } catch (JsonProcessingException e) {
             throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, String.format("Invalid jwt", response), e);
-        } catch (Exception e) {
+        } catch (IOException e) {
             throw new ResponseStatusException(HttpStatus.UNAUTHORIZED, String.format("Invalid jwt", response), e);
         }
     }
